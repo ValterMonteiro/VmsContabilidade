@@ -1,4 +1,4 @@
-import Vms1 from 'assets/Img/Vms1.png'
+import Vms1 from 'assets/Img/Logo VMS horizontal.png'
 
 const NavBar = () => {
     return (
